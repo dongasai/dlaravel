@@ -22,7 +22,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "DLaravel\\Providers\\CoreServiceProvider"
+                "DLaravel\\Providers\\CommandServiceProvider"
             ]
         }
     },
