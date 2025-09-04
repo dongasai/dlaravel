@@ -16,3 +16,5 @@ yarn-error.log
 /.vscode
 /.vagrant
 composer.lock
+.claude/
+CLAUDE.md
